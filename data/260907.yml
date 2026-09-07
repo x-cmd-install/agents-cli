@@ -5,13 +5,13 @@ about:
   head: 5597738
   archived: false
   latestVersion: "v1.5.0"
-  collectedAt: 2026-09-07T06:00:07Z
+  collectedAt: 2026-09-07T18:28:24Z
 timeline:
   created: 2026-04-08
   lastCommit: 2026-09-01
   lastRelease: 2026-09-01
 popularity:
-  star: 5832
+  star: 5837
   watcher: 41
   fork: 644
   release: 21
@@ -42,51 +42,51 @@ recent:
     release: 9
     mergedPR: 0
     openPR: 0
-    closedIssue: 17
-    openIssue: 17
+    closedIssue: 18
+    openIssue: 16
     commit: 8
   last90d:
     since: 2026-06-09
     release: 15
     mergedPR: 0
     openPR: 0
-    closedIssue: 34
-    openIssue: 24
+    closedIssue: 35
+    openIssue: 23
     commit: 15
   last180d:
     since: 2026-03-11
     release: 21
     mergedPR: 0
     openPR: 0
-    closedIssue: 54
-    openIssue: 30
+    closedIssue: 55
+    openIssue: 29
     commit: 34
   last360d:
     since: 2025-09-12
     release: 21
     mergedPR: 0
     openPR: 0
-    closedIssue: 54
-    openIssue: 30
+    closedIssue: 55
+    openIssue: 29
     commit: 34
   last720d:
     since: 2024-09-17
     release: 21
     mergedPR: 0
     openPR: 0
-    closedIssue: 54
-    openIssue: 30
+    closedIssue: 55
+    openIssue: 29
     commit: 39
 total:
   release: 21
   mergedPR: 0
   openPR: 0
-  closedIssue: 54
-  openIssue: 30
+  closedIssue: 55
+  openIssue: 29
   commit: 39
 ---
 path: /home/runner/.x-repo/github.com/google/agents-cli
-collectedAt: 2026-09-07T06:00:09Z
+collectedAt: 2026-09-07T18:28:25Z
 loc:
   Python:
     code: 24717
@@ -177,7 +177,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:00:10+00:00
+  collectedAt: 2026-09-07T18:28:25+00:00
   platform:
     darwin/arm64:
       name:  null
