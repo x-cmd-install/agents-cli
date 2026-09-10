@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.5.0"
   latestRelease: "v1.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:09:34Z
+  collectedAt: 2026-09-10T23:59:55Z
 timeline:
   created: 2026-04-08
   lastCommit: 2026-09-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-01
   lastPrerelease: 
 popularity:
-  star: 5901
+  star: 5903
   watcher: 41
   fork: 660
   release: 21
@@ -90,7 +90,7 @@ total:
   commit: 39
 ---
 path: /home/runner/.x-repo/github.com/google/agents-cli
-collectedAt: 2026-09-10T18:09:35Z
+collectedAt: 2026-09-10T23:59:56Z
 loc:
   Python:
     code: 24717
