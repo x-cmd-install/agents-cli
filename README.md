@@ -38,7 +38,7 @@ Total: **41,425** lines of code across **204** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,904 · **Forks**: 660 · **Open issues**: 85 · **Contributors**: 17
+- **Stars**: 5,910 · **Forks**: 660 · **Open issues**: 85 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -71,4 +71,4 @@ Install metadata for agents-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:00:30Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:54:45Z._
