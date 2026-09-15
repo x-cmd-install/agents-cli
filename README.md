@@ -38,22 +38,22 @@ Total: **41,425** lines of code across **204** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,923 · **Forks**: 660 · **Open issues**: 86 · **Contributors**: 17
+- **Stars**: 5,930 · **Forks**: 660 · **Open issues**: 85 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 31 · **Commits**: 39
+- **Releases**: 21 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 30 · **Commits**: 39
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 4 | 0 | 0 | 2 | 7 | 3 |
-| last60d | 2026-07-16 | 8 | 0 | 0 | 15 | 17 | 8 |
-| 90d | 2026-06-16 | 13 | 0 | 0 | 31 | 25 | 13 |
-| last180d | 2026-03-18 | 21 | 0 | 0 | 55 | 31 | 34 |
-| 360d | 2025-09-19 | 21 | 0 | 0 | 55 | 31 | 34 |
-| last720d | 2024-09-24 | 21 | 0 | 0 | 55 | 31 | 39 |
+| 30d | 2026-08-16 | 4 | 0 | 0 | 1 | 6 | 3 |
+| last60d | 2026-07-17 | 8 | 0 | 0 | 15 | 16 | 8 |
+| 90d | 2026-06-17 | 13 | 0 | 0 | 28 | 24 | 13 |
+| last180d | 2026-03-19 | 21 | 0 | 0 | 55 | 30 | 34 |
+| 360d | 2025-09-20 | 21 | 0 | 0 | 55 | 30 | 34 |
+| last720d | 2024-09-25 | 21 | 0 | 0 | 55 | 30 | 39 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for agents-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:25:28Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:37:08Z._
