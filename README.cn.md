@@ -14,15 +14,15 @@ x install agents-cli
 
 ## 代码洞察
 
-合计: **41,425** 行代码（覆盖前 5 种语言、共 **204** 个文件）。
+合计: **45,016** 行代码（覆盖前 5 种语言、共 **224** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 24,717 | 3,387 | 3,976 | 142 |
-| Json | 7,314 | 0 | 0 | 11 |
-| Hcl | 3,374 | 788 | 649 | 47 |
+| Python | 25,922 | 3,537 | 4,170 | 147 |
+| Json | 7,809 | 0 | 0 | 13 |
+| Hcl | 3,772 | 973 | 770 | 51 |
+| Go | 2,546 | 452 | 339 | 12 |
 | Css | 1,809 | 110 | 285 | 1 |
-| JavaScript | 1,201 | 133 | 138 | 3 |
 
 ## 源代码
 
@@ -32,35 +32,35 @@ x install agents-cli
 
 ## 发布
 
-- **最新版本**: `v1.5.0` (2026-09-01)
-- **最近提交**: 2026-09-01
+- **最新版本**: `v1.6.1` (2026-09-16)
+- **最近提交**: 2026-09-16
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 5,940 · **Fork**: 660 · **开放 issue**: 85 · **贡献者**: 17
+- **Star**: 5,945 · **Fork**: 662 · **开放 issue**: 85 · **贡献者**: 17
 
 ## 累计统计
 
-- **发布数**: 21 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 55 · **开放 issue**: 30 · **提交数**: 39
+- **发布数**: 22 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 59 · **开放 issue**: 26 · **提交数**: 41
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 4 | 0 | 0 | 1 | 6 | 3 |
-| last60d | 2026-07-18 | 8 | 0 | 0 | 15 | 16 | 8 |
-| 90d | 2026-06-18 | 13 | 0 | 0 | 26 | 24 | 13 |
-| last180d | 2026-03-20 | 21 | 0 | 0 | 55 | 30 | 34 |
-| 360d | 2025-09-21 | 21 | 0 | 0 | 55 | 30 | 34 |
-| last720d | 2024-09-26 | 21 | 0 | 0 | 55 | 30 | 39 |
+| 30d | 2026-08-18 | 5 | 0 | 0 | 1 | 6 | 5 |
+| last60d | 2026-07-19 | 9 | 0 | 0 | 18 | 13 | 10 |
+| 90d | 2026-06-19 | 14 | 0 | 0 | 30 | 20 | 15 |
+| last180d | 2026-03-21 | 22 | 0 | 0 | 59 | 26 | 36 |
+| 360d | 2025-09-22 | 22 | 0 | 0 | 59 | 26 | 36 |
+| last720d | 2024-09-27 | 22 | 0 | 0 | 59 | 26 | 41 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [google_agents_cli-1.5.0-py3-none-any.whl](https://github.com/google/agents-cli/releases/download/v1.5.0/google_agents_cli-1.5.0-py3-none-any.whl) | 1.2 MiB | `other` |
-| [google_agents_cli-1.5.0.tar.gz](https://github.com/google/agents-cli/releases/download/v1.5.0/google_agents_cli-1.5.0.tar.gz) | 1010.3 KiB | `native/unknown` |
+| [google_agents_cli-1.6.1-py3-none-any.whl](https://github.com/google/agents-cli/releases/download/v1.6.1/google_agents_cli-1.6.1-py3-none-any.whl) | 1.3 MiB | `other` |
+| [google_agents_cli-1.6.1.tar.gz](https://github.com/google/agents-cli/releases/download/v1.6.1/google_agents_cli-1.6.1.tar.gz) | 1.0 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ agents-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T06:48:18Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T06:32:13Z._
