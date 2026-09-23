@@ -4,7 +4,7 @@
 
 The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 
-[![x-cmd/install — agents-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/agents-cli.svg)](https://x-cmd.com/install/agents-cli)
+[![x-cmd/install — agents-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/agents-cli.svg)](https://x-cmd.com/install/agents-cli)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install agents-cli
 
 ## Code insight
 
-Total: **45,016** lines of code across **224** files in the top 5 languages.
+Total: **45,959** lines of code across **228** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 25,922 | 3,537 | 4,170 | 147 |
+| Python | 26,837 | 3,659 | 4,306 | 151 |
 | Json | 7,809 | 0 | 0 | 13 |
-| Hcl | 3,772 | 973 | 770 | 51 |
+| Hcl | 3,799 | 983 | 777 | 51 |
 | Go | 2,546 | 452 | 339 | 12 |
 | Css | 1,809 | 110 | 285 | 1 |
 
@@ -32,35 +32,35 @@ Total: **45,016** lines of code across **224** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.6.1` (2026-09-16)
-- **Last commit**: 2026-09-16
+- **Latest**: `v1.7.0` (2026-09-22)
+- **Last commit**: 2026-09-22
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 5,975 · **Forks**: 670 · **Open issues**: 85 · **Contributors**: 17
+- **Stars**: 5,980 · **Forks**: 672 · **Open issues**: 85 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 59 · **Open issues**: 26 · **Commits**: 41
+- **Releases**: 23 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 62 · **Open issues**: 23 · **Commits**: 42
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 0 | 0 | 1 | 6 | 4 |
-| last60d | 2026-07-24 | 7 | 0 | 0 | 16 | 12 | 8 |
-| 90d | 2026-06-24 | 13 | 0 | 0 | 26 | 18 | 12 |
-| last180d | 2026-03-26 | 22 | 0 | 0 | 59 | 26 | 36 |
-| 360d | 2025-09-27 | 22 | 0 | 0 | 59 | 26 | 36 |
-| last720d | 2024-10-02 | 22 | 0 | 0 | 59 | 26 | 41 |
+| 30d | 2026-08-24 | 5 | 0 | 0 | 2 | 4 | 5 |
+| last60d | 2026-07-25 | 8 | 0 | 0 | 19 | 9 | 9 |
+| 90d | 2026-06-25 | 14 | 0 | 0 | 29 | 15 | 13 |
+| last180d | 2026-03-27 | 23 | 0 | 0 | 62 | 23 | 37 |
+| 360d | 2025-09-28 | 23 | 0 | 0 | 62 | 23 | 37 |
+| last720d | 2024-10-03 | 23 | 0 | 0 | 62 | 23 | 42 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [google_agents_cli-1.6.1-py3-none-any.whl](https://github.com/google/agents-cli/releases/download/v1.6.1/google_agents_cli-1.6.1-py3-none-any.whl) | 1.3 MiB | `other` |
-| [google_agents_cli-1.6.1.tar.gz](https://github.com/google/agents-cli/releases/download/v1.6.1/google_agents_cli-1.6.1.tar.gz) | 1.0 MiB | `native/unknown` |
+| [google_agents_cli-1.7.0-py3-none-any.whl](https://github.com/google/agents-cli/releases/download/v1.7.0/google_agents_cli-1.7.0-py3-none-any.whl) | 1.3 MiB | `other` |
+| [google_agents_cli-1.7.0.tar.gz](https://github.com/google/agents-cli/releases/download/v1.7.0/google_agents_cli-1.7.0.tar.gz) | 1.1 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for agents-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:37:10Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:29:18Z._
