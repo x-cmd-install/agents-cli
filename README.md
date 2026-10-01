@@ -14,13 +14,13 @@ x install agents-cli
 
 ## Code insight
 
-Total: **45,959** lines of code across **228** files in the top 5 languages.
+Total: **46,695** lines of code across **231** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 26,837 | 3,659 | 4,306 | 151 |
-| Json | 7,809 | 0 | 0 | 13 |
-| Hcl | 3,799 | 983 | 777 | 51 |
+| Python | 28,069 | 3,770 | 4,466 | 154 |
+| Json | 7,297 | 0 | 0 | 13 |
+| Hcl | 3,815 | 988 | 778 | 51 |
 | Go | 2,546 | 452 | 339 | 12 |
 | Css | 1,809 | 110 | 285 | 1 |
 
@@ -32,35 +32,35 @@ Total: **45,959** lines of code across **228** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.7.0` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Latest**: `v1.8.0` (2026-09-30)
+- **Last commit**: 2026-09-30
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,034 · **Forks**: 687 · **Open issues**: 88 · **Contributors**: 17
+- **Stars**: 6,037 · **Forks**: 687 · **Open issues**: 88 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 63 · **Open issues**: 25 · **Commits**: 42
+- **Releases**: 24 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 66 · **Open issues**: 22 · **Commits**: 43
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 3 | 0 | 0 | 2 | 2 | 3 |
-| last60d | 2026-08-01 | 8 | 0 | 0 | 19 | 10 | 7 |
-| 90d | 2026-07-02 | 11 | 0 | 0 | 28 | 13 | 12 |
-| last180d | 2026-04-03 | 23 | 0 | 0 | 63 | 25 | 37 |
-| 360d | 2025-10-05 | 23 | 0 | 0 | 63 | 25 | 37 |
-| last720d | 2024-10-10 | 23 | 0 | 0 | 63 | 25 | 42 |
+| 30d | 2026-09-01 | 4 | 0 | 0 | 2 | 2 | 4 |
+| last60d | 2026-08-02 | 9 | 0 | 0 | 21 | 8 | 8 |
+| 90d | 2026-07-03 | 12 | 0 | 0 | 29 | 11 | 13 |
+| last180d | 2026-04-04 | 24 | 0 | 0 | 66 | 22 | 38 |
+| 360d | 2025-10-06 | 24 | 0 | 0 | 66 | 22 | 38 |
+| last720d | 2024-10-11 | 24 | 0 | 0 | 66 | 22 | 43 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [google_agents_cli-1.7.0-py3-none-any.whl](https://github.com/google/agents-cli/releases/download/v1.7.0/google_agents_cli-1.7.0-py3-none-any.whl) | 1.3 MiB | `other` |
-| [google_agents_cli-1.7.0.tar.gz](https://github.com/google/agents-cli/releases/download/v1.7.0/google_agents_cli-1.7.0.tar.gz) | 1.1 MiB | `native/unknown` |
+| [google_agents_cli-1.8.0-py3-none-any.whl](https://github.com/google/agents-cli/releases/download/v1.8.0/google_agents_cli-1.8.0-py3-none-any.whl) | 1.3 MiB | `other` |
+| [google_agents_cli-1.8.0.tar.gz](https://github.com/google/agents-cli/releases/download/v1.8.0/google_agents_cli-1.8.0.tar.gz) | 1.1 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for agents-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:41:39Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:04:14Z._
