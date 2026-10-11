@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1168723,
       "digest": "sha256:2df8bda19946979adabdd0df33e45bcf1375dc05d6719fefc7e731675a346c6b",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-06T14:08:22Z",
       "updated_at": "2026-10-06T14:08:23Z",
       "browser_download_url": "https://github.com/google/agents-cli/releases/download/v1.9.0/google_agents_cli-1.9.0.tar.gz"
