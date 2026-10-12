@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1435302,
       "digest": "sha256:45b38ffe57f9361449a6b6366d466eb4b6874cbea153f31178c5b1c1ee25ef9f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-06T14:08:22Z",
       "updated_at": "2026-10-06T14:08:23Z",
       "browser_download_url": "https://github.com/google/agents-cli/releases/download/v1.9.0/google_agents_cli-1.9.0-py3-none-any.whl"
