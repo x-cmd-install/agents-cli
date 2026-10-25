@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1495055,
       "digest": "sha256:c25c44078ce8b37aae8578cf7ddae2c35e543ef9a7468cdb93ead074ef2ed4fb",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-20T13:03:55Z",
       "updated_at": "2026-10-20T13:03:56Z",
       "browser_download_url": "https://github.com/google/agents-cli/releases/download/v1.11.0/google_agents_cli-1.11.0-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1220585,
       "digest": "sha256:7e7f7dc073106c00d96749d404f2d76aaf8ee6afee23c23e007e84018042eeb3",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-20T13:03:55Z",
       "updated_at": "2026-10-20T13:03:56Z",
       "browser_download_url": "https://github.com/google/agents-cli/releases/download/v1.11.0/google_agents_cli-1.11.0.tar.gz"
