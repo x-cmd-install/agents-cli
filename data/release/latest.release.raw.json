@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1517447,
       "digest": "sha256:4a476bab492c1f04d5ad20242de89a3ac1b21965f530af4e2783e31c33e95e24",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-27T10:30:59Z",
       "updated_at": "2026-10-27T10:30:59Z",
       "browser_download_url": "https://github.com/google/agents-cli/releases/download/v1.12.0/google_agents_cli-1.12.0-py3-none-any.whl"
