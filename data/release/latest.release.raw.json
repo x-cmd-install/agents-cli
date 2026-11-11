@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1281299,
       "digest": "sha256:a88bc04d184a2d6f326d8612d57259889b18a97b23491bdc45fae6cbed81d9c7",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-04T16:19:14Z",
       "updated_at": "2026-11-04T16:19:14Z",
       "browser_download_url": "https://github.com/google/agents-cli/releases/download/v1.13.0/google_agents_cli-1.13.0.tar.gz"
